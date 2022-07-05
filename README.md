@@ -8,7 +8,11 @@
 
 
 
-## ## Collated Skins
+--------
+
+
+
+## Collated Skins
 
 The following skins have been collated to build a collection. All rights to the following skins belong to their respective designers. Under no circumstances are the following skins to be used in a way that contravenes the licenses provided by the content creators. Please refer to the provided contact details to get in touch with the content creators. If any of the following contact details are incorrect, or you would like your skins removed from this pack, please raise an issue on GitHub.
 
